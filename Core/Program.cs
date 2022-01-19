@@ -85,6 +85,8 @@ namespace Core
             //}
 
 
+
+            //Highest Number in Array
             Console.WriteLine("Enter length of Array To find Hghest Number");
             int Length = Convert.ToInt32(Console.ReadLine());
             int[] Array = new int[Length];
